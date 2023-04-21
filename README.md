@@ -6,6 +6,7 @@ Use the gsheet/xlsx file attached to this repo (assets folder) to generate the .
 |      Duration      | %FTP start | %FTP end | Duration (decimal) |
 |:-:|:-:|:-:|:-:|
 | Interval duration expressed in gsheet time format | %FTP at the start of the interval | %FTP at the end of the interval | Decimal duration of the interval, computed by gsheet formula |
+
 The first three columns are the ones that need to be edited.
 #### Example
 Consider the following workout from [whatsonzwift.com](https://whatsonzwift.com/workouts/le-col-training-with-legends)
@@ -19,7 +20,7 @@ The gsheet will appear as follows:
 You just need to download the sheet as a .csv file.
 
 ## Script usage
-You can run the .py script or use the .exe in dist.
+You can run the .py script ~~or use the .exe in dist~~ *coming soon*.
 
 You will be prompted with the following window:
 
